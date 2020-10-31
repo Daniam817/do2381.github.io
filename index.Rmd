@@ -1,0 +1,31 @@
+---
+title: "My awesome website"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+  
+---
+
+# This is Daniel's awesome website
+
+![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+
+## Heres a subsection
+
+# Links to other websites
+
+Lets link to useful tools for data science:
+
+* [Google](https://www.google.com/)
+* [P8105](https://www.p8105.com/)
+
+# Local image
+
+Picture of dog :
+
+![](images/dogs.jpg)
+
+# Link to page within the site
+
+[About me](about.html)
